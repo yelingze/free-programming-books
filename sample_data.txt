@@ -1,0 +1,11 @@
+Line 1: This is the first line of the file.
+Line 2: Here is some sample data for testing.
+Line 3: We can have numbers like 12345.
+Line 4: Or special characters: !@#$%^&*()
+Line 5: Empty lines are also possible.
+
+Line 7: This is line 7.
+Line 8: Concurrency testing is important.
+Line 9: Always handle exceptions carefully.
+Line 10: Make sure to close resources properly.
+Line 11: This is the last line of the sample file.

@@ -290,3 +290,25 @@ dist
 # #########################################################
 # User Custom
 # ########
+
+# Java
+*.class
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+build/
+
+# IntelliJ IDEA
+*.iml
+*.iws
+.out
+.idea/
+
+# Eclipse
+.settings/
+.project
+.classpath
+.factorypath
